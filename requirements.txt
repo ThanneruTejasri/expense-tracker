@@ -1,0 +1,12 @@
+# Backend dependencies
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+
+# Frontend dependencies
+streamlit
+pandas
+plotly
+requests
